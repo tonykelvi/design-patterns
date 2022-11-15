@@ -9,6 +9,8 @@ import org.tk.domain.Carro.Modelo;
 import java.util.ArrayList;
 import java.util.List;
 
+// http://localhost:8080/carros
+
 @SpringBootApplication
 public class AppJava {
     public static void main(String[] args) {
